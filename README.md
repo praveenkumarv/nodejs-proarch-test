@@ -10,4 +10,4 @@
 ![alt text](https://raw.githubusercontent.com/praveenkumarv/nodejs-proarch-test/master/assets/registration.png)
 
 # User Registration screenshot 2
-![alt text](https://raw.githubusercontent.com/praveenkumarv/nodejs-proarch-test/master/assets/registration.png)
+![alt text](https://github.com/praveenkumarv/nodejs-proarch-test/blob/master/assets/registration_2.png)
